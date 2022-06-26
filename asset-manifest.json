@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-todolist/static/css/main.3687e969.css",
-    "main.js": "/my-todolist/static/js/main.7acf582f.js",
+    "main.css": "/my-todolist/static/css/main.9d3f778b.css",
+    "main.js": "/my-todolist/static/js/main.9cc2b4d1.js",
     "static/media/remixicon.svg?t=1590207869815": "/my-todolist/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/remixicon.eot?t=1590207869815": "/my-todolist/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/my-todolist/static/media/remixicon.f2616f597cf98f38d234.ttf",
     "static/media/remixicon.woff?t=1590207869815": "/my-todolist/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/remixicon.woff2?t=1590207869815": "/my-todolist/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "index.html": "/my-todolist/index.html",
-    "main.3687e969.css.map": "/my-todolist/static/css/main.3687e969.css.map",
-    "main.7acf582f.js.map": "/my-todolist/static/js/main.7acf582f.js.map"
+    "main.9d3f778b.css.map": "/my-todolist/static/css/main.9d3f778b.css.map",
+    "main.9cc2b4d1.js.map": "/my-todolist/static/js/main.9cc2b4d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.3687e969.css",
-    "static/js/main.7acf582f.js"
+    "static/css/main.9d3f778b.css",
+    "static/js/main.9cc2b4d1.js"
   ]
 }
